@@ -116,7 +116,5 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 Developed by [Habiba Tamer]  
 Feel free to fork, contribute, or share! If this helps you, consider starring the repo.
 
-## 💬 Contact
 
-For issues or suggestions, open an issue or reach out on GitHub.
 
