@@ -113,7 +113,7 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 
 ## 👨‍💻 Author
 
-Developed by [Habiba Tamer]  
+Developed by [Mahmoud Fouad]  
 Feel free to fork, contribute, or share! If this helps you, consider starring the repo.
 
 
